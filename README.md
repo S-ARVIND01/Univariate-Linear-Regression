@@ -38,7 +38,7 @@ plt.plot(X,Y_pred, color = "red")
 plt.show()
 ```
 ## Output
-![Screenshot 2023-11-07 091943](https://github.com/S-ARVIND01/Univariate-Linear-Regression/assets/118707337/693368bd-2ae9-4cd8-b3b2-cd61c8540342)
+![Screenshot 2023-11-07 093705](https://github.com/S-ARVIND01/Univariate-Linear-Regression/assets/118707337/51920b42-1727-4b49-a97e-e1ec4feb33e5)
 
 ![Screenshot 2023-11-07 091957](https://github.com/S-ARVIND01/Univariate-Linear-Regression/assets/118707337/92a52824-d5f9-4a7e-82d0-0241e87d4b4c)
 ## Result
